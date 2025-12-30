@@ -1,0 +1,7 @@
+Streamlit
+python-dotenv
+neo4j
+llama-index
+llama-index-llms-ollama
+langdetect
+sentence-transformers
