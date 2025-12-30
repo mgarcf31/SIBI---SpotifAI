@@ -73,6 +73,22 @@ README.md
 - Modelo descargado en Ollama (`qwen2.5:0.5b` por defecto)
 
 ---
+## 📊 Dataset
+
+Este proyecto utiliza datasets musicales abiertos (por ejemplo, Spotify / Kaggle).
+
+El dataset **no se incluye en el repositorio** por motivos de tamaño y licencia.
+Solo se utiliza durante la fase de creación del grafo en Neo4j.
+
+Puedes usar cualquier dataset que contenga:
+- Canciones
+- Artistas
+- Géneros
+- Popularidad (opcional)
+
+Los scripts `graph.py` y `embed_tracks.py` se encargan de transformar estos datos en la base de datos.
+
+---
 
 ## 🔧 Configuración
 
