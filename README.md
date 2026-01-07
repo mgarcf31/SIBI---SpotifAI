@@ -63,6 +63,11 @@ spotify-reco-agent/
 
 README.md
 
+|
+
+spotifAi.pdf # presentación en pdf
+
+  
 ---
 
 ## ⚙️ Requisitos
