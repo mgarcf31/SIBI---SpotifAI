@@ -67,6 +67,13 @@ README.md
 
 spotifAi.pdf # presentación en pdf
 
+|
+
+enlace-al-video-drive.txt # documento de teto con elnace al video en Drive
+
+|
+
+memoriaSpotifAI.pdf # memoria del proyecto en pdf
   
 ---
 
