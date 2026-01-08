@@ -184,5 +184,4 @@ El repositorio incluye:
 - README
 - Memoria del proyecto
 - Presentación (PPTX)
-- Vídeo demostrativo de la aplicación
-- Vídeo de la presentación
+- Vídeo de la presentación y de la aplicación
